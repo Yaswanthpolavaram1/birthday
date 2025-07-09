@@ -1,8 +1,7 @@
 # 🎂✨ Happy Birthday Website ✨💻  
 *A Code-Powered Birthday Gesture for Someone Special*  
 
-![Preview](./output.png)  
-*Watch the full magic on [Instagram](https://www.instagram.com/reel/DG_AZoAo7P4/?igsh=bXl0MWFseXg1NG1w)*  
+![Preview](./output.png)
 
 ---
 
